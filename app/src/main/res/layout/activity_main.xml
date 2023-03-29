@@ -64,4 +64,10 @@
         android:layout_height="198dp"
         android:visibility="invisible" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2021041086 김진구" />
+
 </LinearLayout>
